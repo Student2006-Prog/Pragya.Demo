@@ -1,3 +1,3 @@
 # Pragya.Demo
 This is my first repository.<br>
-Author-Pragya
+Author-Pragya (Student)
